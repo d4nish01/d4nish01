@@ -16,7 +16,7 @@ Final-year B.Tech (IT) + MBA student at ABV-IIITM Gwalior (class of 2027), looki
 
 ## Competitive programming
 
-- LeetCode [d4nish_01](https://leetcode.com/u/d4nish_01/) - 400+ problems
+- LeetCode [d4nish_01](https://leetcode.com/u/d4nish_01/) - 600+ problems
 - CodeChef 1600+ (max), global rank 448
 
 ## Stack
